@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Varad.me.</title>
+ <link href="http://innovativepy.github.io/varad-blogs/atom.xml" rel="self"/>
+ <link href="http://innovativepy.github.io/varad-blogs/"/>
+ <updated>2016-03-13T21:16:33+05:30</updated>
+ <id>http://innovativepy.github.io/varad-blogs</id>
+ <author>
+   <name>Varad A G</name>
+   <email>varadarajanag@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Pyramid - ReST API</title>
+   <link href="http://innovativepy.github.io/varad-blogs/development/2016/02/20/pyramid.html"/>
+   <updated>2016-02-20T21:26:00+05:30</updated>
+   <id>http://innovativepy.github.io/varad-blogs/development/2016/02/20/pyramid</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
